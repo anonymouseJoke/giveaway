@@ -1,4 +1,4 @@
-# [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/ZeroDiscord/Giveaway)
+# [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/anonymouseJoke)
 - [Check Out (coming soon)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 **This Giveaway bot was created by you**
