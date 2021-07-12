@@ -1,7 +1,10 @@
 # [Want One With Giveaway Requirements and Bonus Enteries?](https://github.com/anonymouseJoke)
 - [Check Out (coming soon)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-**This Giveaway bot was created by you**
+**This Giveaway bot was created by you and anonymouseJoke**
+
+**Select Language Node.js**
+**Configure the run button = npm start**
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
