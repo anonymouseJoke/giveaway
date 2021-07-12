@@ -3,8 +3,12 @@
 
 **This Giveaway bot was created by you and anonymouseJoke**
 
+# [Select Language]
 **Select Language Node.js**
-**Configure the run button = npm start**
+
+# [Configure the run button]
+**npm start**
+
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
