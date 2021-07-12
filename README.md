@@ -28,3 +28,6 @@ Copyright 2020 © All RIghts are Reserved | If you are using any part of code pl
 
 # Host On Repl.it
 - [replit.com](https://replit.com/repls)
+
+# Run the Project
+Repl: [![Run on Repl.it](https://repl.it/badge/github/anonymouseJoke/giveaway)]
