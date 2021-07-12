@@ -15,7 +15,7 @@ Copyright 2020 © All RIghts are Reserved | If you are using any part of code pl
 **Read if your an glitch user**
 
 **NOTE FOR GLITCH HOSTERS 
-`` THIS BOT DIES IF YOU DON'T USE IT EVERY 5 MINUTES CAN BE EASILY RE-HOSTED BY REGENERATING THE TOKEN AND REPPLACING IT 
+`` THIS BOT DIES IF YOU DON'T USE IT EVERY 5 MINUTES CAN BE EASILY RE-HOSTED BY REGENERATING THE TOKEN AND REPPLACING IT** 
 
 # Host On Repl.it
 - [replit.com](https://replit.com/repls)
