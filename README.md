@@ -8,10 +8,10 @@
 # [Select Language](https://nodejs.org/en/)
 **Select Language Node.js**
 
-# [Configure the run button]
+# [Configure the run button](https://docs.npmjs.com/packages-and-modules/)
 **npm start**
 
-# Read this 
+# Read this!
 
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
